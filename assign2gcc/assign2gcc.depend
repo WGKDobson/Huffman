@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516633556 source:/home/keith/Documents/AI_Winter2018/VGP310/Assignments/assign2/assign2gcc/main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<string>
+

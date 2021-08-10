@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516474904 source:/home/keith/Documents/AI_Winter2018/VGP310/Assignments/assign2/huffmantree/huffmantree/main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
